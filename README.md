@@ -1,4 +1,3 @@
-
 # Dual Camera Face Recognition and Tracking System
 
 A real-time face recognition system that tracks individuals across two cameras using MQTT for communication and Telegram for notifications.
