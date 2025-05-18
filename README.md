@@ -162,16 +162,4 @@ Feel free to submit issues and enhancement requests!
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-```
 
-This README.md provides:
-1. Overview of the system
-2. Installation instructions
-3. Configuration steps
-4. Usage guidelines
-5. System behavior explanation
-6. MQTT topic and message format documentation
-7. Troubleshooting guide
-8. Contributing information
-
-Would you like me to add or modify any sections of the README?
